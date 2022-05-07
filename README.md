@@ -16,7 +16,7 @@ Sign language is a visual language performed with dynamic movement of hand gestu
 </ul>
 
 ### Project Workflow 
-![Project Work Flow](Work_Flow.jpg)
+![Project Work Flow](/doc_images/Work_Flow.jpg)
 
 ### Dataset Selection
 <ul>
@@ -46,10 +46,10 @@ Sign language is a visual language performed with dynamic movement of hand gestu
 
 Final out frames from the pre-processing module. 
 
-![Keypoint Extraction](Pre_Proc.png)
+![Keypoint Extraction](/doc_images/Pre_Proc.png)
 
 ### Skeleton Based LSTM Model Architecture
-![img_5.png](LSTM%20Model.jpg)
+![img_5.png](/doc_images/LSTM%20Model.jpg)
 
 ### Dataset-1 WLASL2000 
 <ul>
@@ -60,17 +60,17 @@ Final out frames from the pre-processing module.
 
 #### WLASL2000 Stats :
 
-![WLASL Stats.png](WLASL_Stats.png)
+![WLASL Stats.png](/doc_images/WLASL_Stats.png)
 
 ### Dataset-2 Custom Dataset
 4 signers X 25 signs / person X 30 samples / sign = 120 videos / sign = 3000 videos
 
-![Custom Dataset](img_DB2.png)
+![Custom Dataset](/doc_images/img_DB2.png)
 
 ### Baseline Results and Findings
 Findings from initial analysis show very low accuracy score when baseline models are trained on WLASL2000. Even our skeleton-based LSTM model doesn’t produce significant results.  
 
-![Results](Results.JPG)
+![Results](/doc_images/Results.JPG)
 
 ### Results of Exploratory Analysis of WLASL2000 dataset
 
