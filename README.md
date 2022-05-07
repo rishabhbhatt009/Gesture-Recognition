@@ -1,5 +1,4 @@
 # Gesture-Recognition
-Computer Vision Project 
 
 ### Problem Statement 
 **Task identification** : Given a video stream as input the task is to detect and predict the sequence of signs and gestures that are performed in order to generate text/speech in natural language.
